@@ -176,13 +176,11 @@ article>h2 {
 @media only screen and (max-width: 410px) {
     .information {
         margin-top: 12%;
-
+        
     }
-
-    .places h2 {
+    .places h2{
         margin-right: 23px;
     }
-
     .max_guest,
     .number_rooms,
     .number_bathrooms {
