@@ -330,3 +330,27 @@ Requirements:
   * styles/3-footer.css: for the footer style
   * styles/6-filters.css: for the filters style
   * styles/100-places.css: for the places style
+
+## Flex
+
+Improve the Places section by using Flexible boxes for all Place articles
+
+## Responsive design
+
+Improve the page by adding responsive design to display correctly in mobile or small screens.
+
+Examples:
+
+* no horizontal scrolling
+* redesign search bar depending of the width
+* etc
+
+## Accessibility
+
+Improve the page by adding Accessibility support
+
+Examples:
+
+* Colors contrast
+* Header tags
+* etc.
